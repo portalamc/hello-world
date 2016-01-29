@@ -19,7 +19,11 @@ var portal = "Portal 2.0 is cool!";
 alert(portal);
 ```
 
-Schuid gedrukte tekst: _schuin_
+Schuin gedrukte tekst: _schuin_
+
+  notatie: _schuin_
 
 Dik gedrukte tekst: **dik**
+
+  notatie: **dik**
 
